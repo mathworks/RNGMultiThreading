@@ -2,8 +2,8 @@
 
 Visualize how MATLAB's RNGs multi-thread.
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=BJTor/RNGMultiThreading&file=RNGMultiThreading.mlapp)
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/RNGMultiThreading)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/RNGMultiThreading&file=RNGMultiThreading.mlapp)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/181948-rngmultithreading)
 
 Use this application to view side-by-side comparisons of MATLAB Random 
 Number Generator (RNG) performance as the number of available computational
